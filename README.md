@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MarianaGCosta
+- 👀 I’m interested in linguistcs, literature, and digital humanities
+- 🌱 I’m currently learning R, Python, and SketchEngine
+- 📫 mariana.goncalves@letras.ufrj.br 
+- 📫 marianag.costta@gmail.com 
+- lattes.cnpq.br/1485694235655537
