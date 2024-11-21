@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @MarianaGCosta
-- 👀 I’m interested in Digital Humanities, NLP, and Computational Linguistics
-- 🌱 I am a Master's student in Computing Methodologies and Techniques with a previous major in Languages and Literature from Universidade Federal do Rio de Janeiro.
-- 📫 mariana.goncalves@letras.ufrj.br 
-- 📫 marianag.costta@gmail.com 
-- lattes.cnpq.br/1485694235655537
+
