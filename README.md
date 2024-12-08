@@ -17,7 +17,8 @@ def select_stopwords(stopwords, word_classes, remove_list = None):
 
   Arguments:
     stopwordsdict (dict): The dictionary containing all stopwords categorized by word classes.
-    word_classes (list): The list of word classes to be included in the stopwords.
+    word_classes (list): The list of word classes to be included in the stopwords:
+    (artigos, pronomes, preposicoes, adverbios, verbos).
     remove_list (list, optional): The list of words to be removed from the stopwords. Defaults to None.
 
   Returns:
