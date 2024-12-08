@@ -7,3 +7,5 @@ Building on previous research investigating the [Volitive Construction of the Fu
 Python 3.10 - Google Colab\
 **Mariana Gonçalves da Costa** [Programa de Pós-Graduação em Informática/UFRJ]\
 Last updated: 08 December 2024
+
+## Stopwords selection
