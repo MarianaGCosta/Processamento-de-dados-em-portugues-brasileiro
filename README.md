@@ -10,6 +10,7 @@ Last updated: 08 December 2024 - Python 3.10 - Google Colab
 -----
 
 ## Stopwords selection
+We organized the stopwords into a dictionary, grouping them by word classes. This structure allows you to select relevant stopwords for your data cleaning to align with the specific goals of your text processing.
 
 ``` Python
 def select_stopwords(stopwords, word_classes, remove_list = None):
