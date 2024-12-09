@@ -10,7 +10,7 @@ Last updated: 08 December 2024 - Python 3.10 - Google Colab
 -----
 
 ## Stopwords selection
-We organized the stopwords into a dictionary, grouping them by word classes. This structure allows you to select relevant stopwords for your data cleaning to align with the specific goals of your text processing.
+We organized the stopwords into a dictionary, grouping them by word classes. This structure allows you to select relevant stopwords for your data cleaning to align with the goals of text processing.
 
 ``` Python
 def select_stopwords(stopwords, word_classes, remove_list = None):
@@ -29,7 +29,7 @@ def select_stopwords(stopwords, word_classes, remove_list = None):
   """
 
   stopwords = [word for word_class in word_classes for word in stopwordsdict.get(word_class, [])]
-  # Use dict.get() to avoid KeyError if a word class isn't present in the dictionary.
+  # Use dict.get() to avoid KeyError if a word class isn't in the dictionary.
 
   # Remove specified words from the stopwords list if remove_list is provided
   if remove_list:
@@ -37,3 +37,17 @@ def select_stopwords(stopwords, word_classes, remove_list = None):
 
   return stopwords
 ```
+
+Example
+```Python
+classes = ["artigos",
+           "pronomes",
+           "preposicoes"]
+
+remover = ["cujo",
+           "cuja",
+           "cujos",
+           "cujas"]
+
+select_stopwords(stopwordsdict, classes, remover)
+````
