@@ -32,3 +32,6 @@ Last updated: 31 2024 - Python 3.10 - Google Colab
 * Tratamento de dados do português
 * Aplicação do prov-model
 * Treinamento de lematizador spaCy (em andamento)
+
+-----
+Artigo: [Decifrando dados linguísticos: análise comparativa dos lematizadores para língua portuguesa](https://github.com/MarianaGCosta/Processamento-de-dados-em-portugues-brasileiro/blob/main/Decifrando_dados_lingu%C3%ADsticos__an%C3%A1lise_comparativa_dos_lematizadores_para_l%C3%ADngua_portuguesa.pdf)
