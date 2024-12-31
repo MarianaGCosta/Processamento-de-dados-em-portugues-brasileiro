@@ -13,7 +13,7 @@
 Este estudo analisa comparativamente a aplicação de lematizadores no processamento sintático de textos em português brasileiro. Neste trabalho, analisamos a aplicação de três lematizadores disponíveis para o português: (i) o modelo de linguagem da biblioteca spaCy; (ii) o método baseado em dependências universais do pacote simplemma; e (iii) a abordagem por documentos lexicográficos (PortilexiconUD: Projeto POeTiSA). O banco de dados utilizado nessa análise pode ser encontrado em [D&G UFF](https://deg.uff.br/corpus-dg/).
 
 **Mariana Gonçalves da Costa** [Programa de Pós-Graduação em Informática/UFRJ]\
-Last updated: 31 2024 - Python 3.10 - Google Colab
+Last updated: 31 Dec 2024 - Python 3.10 - Google Colab
 
 -----
 ## Arquivos disponibilizados
