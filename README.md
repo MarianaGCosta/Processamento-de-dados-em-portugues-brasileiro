@@ -38,7 +38,8 @@ Code produced in Python 3.10 - Google Colab
 * [Treinamento de lematizador spaCy](https://github.com/MarianaGCosta/Processamento-de-dados-em-portugues-brasileiro/blob/main/Treinamento_spaCy.ipynb) (em andamento)
 
 -----
-## Autoria: Mariana Gonçalves da Costa
+## Autoria:
+* Mariana Gonçalves da Costa, Sergio Serra e Jorge Zavaleta
 * Contato: marianag.costta@gmail.com
 * Página: https://www.linkedin.com/in/mariana-gdacosta/
  
